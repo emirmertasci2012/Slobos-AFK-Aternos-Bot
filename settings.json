@@ -8,7 +8,7 @@
   "server": {
     "ip": "vyntra.aternos.me",
     "port": 47060,
-    "version": "26.1",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {

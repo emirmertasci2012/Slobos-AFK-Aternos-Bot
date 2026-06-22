@@ -1,26 +1,26 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "JrezzyBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "vyntra.aternos.me",
+    "port": 47060,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -37,
+    "y": 66,
+    "z": -74,
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "JrezzyWorksa1111#"
     },
     "anti-afk": {
       "enabled": true,
